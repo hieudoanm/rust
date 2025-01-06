@@ -1,0 +1,10 @@
+[package]
+name = "rs-warp"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+warp = "=0.3.7"
+uuid = { version = "=1.11.0", features = ["v4"] }
+tokio = { version = "=1.42.0", features = ["full"] }
