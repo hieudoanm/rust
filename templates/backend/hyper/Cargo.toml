@@ -1,6 +1,6 @@
 [package]
-name = "rs-hyper"
-version = "0.1.0"
+name = "back-end-hyper"
+version = "0.0.1"
 edition = "2021"
 publish = false
 

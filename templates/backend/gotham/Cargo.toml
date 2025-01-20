@@ -1,6 +1,6 @@
 [package]
-name = "rs-actix"
-version = "0.1.0"
+name = "back-end-actix"
+version = "0.0.1"
 edition = "2021"
 publish = false
 

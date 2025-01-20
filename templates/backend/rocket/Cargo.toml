@@ -1,5 +1,5 @@
 [package]
-name = "rs-rocket"
+name = "back-end-rocket"
 version = "0.0.0"
 edition = "2021"
 publish = false
